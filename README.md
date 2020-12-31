@@ -1,8 +1,6 @@
 # Morphling - Text to human pipeline.
-A Machine Learning pipeline that goes from text to fully animated faces and voiced faces!
-
-# The tool Creation
 [![](http://img.youtube.com/vi/VxrtbWqwyUk/0.jpg)](http://www.youtube.com/watch?v=VxrtbWqwyUk "Creation of this tool")
+A Machine Learning pipeline that goes from text to fully animated faces and voiced faces!
 
 # Video Tool Use Guide
 
