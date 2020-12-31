@@ -10,13 +10,21 @@ TODO
 
 # Requirements
 
-# Useage
+## Main Requirements
+CUDA Enabled GPU
+Python > 3
+FFMPEG (Ensure it is in path)
 
+## PIP Modules
+```python
+pip3 install -r requirements.txt
+```
+
+## Useage
 ```python
 python3 interface.py
 ```
-
-## Download
+# Downloads
 A complete downloadable version of this project found on google drive: https://drive.google.com/drive/folders/1uNL7wzCTbG7opHDvW61ly_N8Oa4LTSxy?usp=sharing
 
 ## Models
