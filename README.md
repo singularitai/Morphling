@@ -36,9 +36,9 @@ These should be placed in the 'models' folder:
 4) ISR - https://idealo.github.io/image-super-resolution/
 
 ## This work has adapted notebooks:
-1)Flowtron - https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidia_Flowtron_Waveglow.ipynb
+1) Flowtron - https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidia_Flowtron_Waveglow.ipynb
 2) LipGan - https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb#scrollTo=ktXeABjLYb70
-3)First order motion - https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb
+3) First order motion - https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb
 
 
 
