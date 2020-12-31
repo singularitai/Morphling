@@ -12,7 +12,9 @@ TODO
 
 ## Main Requirements
 CUDA Enabled GPU
+
 Python > 3
+
 FFMPEG (Ensure it is in path)
 
 ## PIP Modules
