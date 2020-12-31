@@ -12,6 +12,10 @@ TODO
 
 # Useage
 
+```python
+python3 interface.py
+```
+
 ## Download
 A complete downloadable version of this project found on google drive: https://drive.google.com/drive/folders/1uNL7wzCTbG7opHDvW61ly_N8Oa4LTSxy?usp=sharing
 
