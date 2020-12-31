@@ -43,16 +43,40 @@ These should be placed in the 'models' folder:
 	lipgan - https://drive.google.com/uc?id=1DtXY5Ei_V6QjrLwfe7YDrmbSCDu6iru1
 	face detector: http://dlib.net/files/mmod_human_face_detector.dat.bz2 
 	
-## This makes use of several technologies
-1) Flowtron/Waveglow - https://github.com/NVIDIA/flowtron
-2) LipGan - https://github.com/Rudrabha/LipGAN
-3) First Order Motion - https://github.com/AliaksandrSiarohin/first-order-model
-4) ISR - https://idealo.github.io/image-super-resolution/
-
 ## This work has adapted notebooks:
 1) Flowtron - https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidia_Flowtron_Waveglow.ipynb
 2) LipGan - https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb#scrollTo=ktXeABjLYb70
 3) First order motion - https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb
+
+## This makes use of several technologies
+Each of these uses a different license. Be sure to check them out for more info.
+1) Flowtron/Waveglow - https://github.com/NVIDIA/flowtron
+2) LipGan - https://github.com/Rudrabha/LipGAN
+3) First Order Motion - https://github.com/AliaksandrSiarohin/first-order-model
+4) ISR - https://idealo.github.io/image-super-resolution/
+5) Stylegan2-Pytorch - https://github.com/Tetratrio/stylegan2_pytorch
+
+# License
+This repo is a melting pot of different licenses, including GPL and MIT licenses.
+
+My own contributions are under the 'WTF Public License'
+
+
+```
+            DO WHAT THE F*CK YOU WANT TO PUBLIC LICENCE
+                    Version 3.1, July 2019
+
+ by Sam Hocevar <sam@hocevar.net>
+    theiostream <matoe@matoe.co.cc>
+    dtf         <wtfpl@dtf.wtf>
+
+            DO WHAT THE F*CK YOU WANT TO PUBLIC LICENCE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE F*CK YOU WANT TO.
+  
+  
+```
 
 
 
