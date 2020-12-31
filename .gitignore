@@ -1,0 +1,9 @@
+
+*.pyc
+*.mp4
+models/stylegan_Gs.pth
+*.pth
+*.dat
+*.tar
+*.pt
+*.h5
