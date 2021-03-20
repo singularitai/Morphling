@@ -3,6 +3,13 @@
 
 A Machine Learning pipeline that goes from text to fully animated faces and voiced faces!
 
+# Supporting this project
+If you'd like to support my work please consider: 
+
+* [donating to the patreon](https://www.patreon.com/SingularitAI)
+* [Supporting on github](https://github.com/sponsors/hephyrius)
+* [Following the youtube channel](https://www.youtube.com/channel/UCamWRprZmZ02TJAvGCCZzYg)
+
 # Video Tool Use Guide
 
 TODO
